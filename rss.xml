@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Geo Dizek]]></title>
         <description><![CDATA[Geo Dizek]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/geo-dizek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 08:36:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 08:37:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/geo-dizek/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Testerooo - Sensorationally Sensitive</p>]]></description>
-            <link>undefined37be22f6-c85c-4292-ac87-ce4640211232/index.html</link>
+            <link>https://thegrid.ai/geo-dizek/37be22f6-c85c-4292-ac87-ce4640211232/index.html</link>
             <guid isPermaLink="false">37be22f6-c85c-4292-ac87-ce4640211232</guid>
-            <pubDate>Tue, 29 Mar 2016 08:36:45 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 08:37:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
