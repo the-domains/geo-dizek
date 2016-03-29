@@ -4,15 +4,8 @@
         <description><![CDATA[Geo Dizek]]></description>
         <link>https://thegrid.ai/geo-dizek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 09:00:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 09:00:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geo-dizek/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://thepalekids.files.wordpress.com/2015/03/quackula-jan15.jpg?w=428&h=600">]]></description>
-            <link>https://thegrid.ai/geo-dizek/a0df86ae-3a1b-4b2e-88e8-a266e9757443/index.html</link>
-            <guid isPermaLink="false">a0df86ae-3a1b-4b2e-88e8-a266e9757443</guid>
-            <pubDate>Tue, 29 Mar 2016 09:00:30 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://thepalekids.files.wordpress.com/2015/02/fish-jan15.jpg?w=398&h=600">]]></description>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article><h1>About</h1><p>George Gratton is a cartoonist from Ontario, Canada Contact: palesnailmail@gmail.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
             <link>https://thepalekids.wordpress.com/about/</link>
             <guid isPermaLink="false">912d4a67-98b5-4021-83a8-d6e147b1393e</guid>
+            <pubDate>Tue, 29 Mar 2016 08:59:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://thepalekids.files.wordpress.com/2015/03/cropped-3skullsyellow.png">]]></description>
+            <link>https://thegrid.ai/geo-dizek/c88330d0-f22d-4ac4-8198-8debd923f0be/index.html</link>
+            <guid isPermaLink="false">c88330d0-f22d-4ac4-8198-8debd923f0be</guid>
             <pubDate>Tue, 29 Mar 2016 08:59:40 GMT</pubDate>
         </item>
     </channel>
