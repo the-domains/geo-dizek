@@ -1,7 +1,7 @@
 name: Geo Dizek
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.15246
+layout_spectrum: 0
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#000000'
     - '#ff00ff'
     - '#00ff00'
-  brandStrength: 0
-  lightness: 0
-  saturation: 0.375
-  rhythmicContrast: 0
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
