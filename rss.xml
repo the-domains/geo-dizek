@@ -4,8 +4,15 @@
         <description><![CDATA[Geo Dizek]]></description>
         <link>https://thegrid.ai/geo-dizek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 09:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 09:00:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geo-dizek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://thepalekids.files.wordpress.com/2015/02/fudge-feb15.jpg">]]></description>
+            <link>https://thegrid.ai/geo-dizek/d8f74dbf-610c-4db8-843f-a09d0ddf8eaa/index.html</link>
+            <guid isPermaLink="false">d8f74dbf-610c-4db8-843f-a09d0ddf8eaa</guid>
+            <pubDate>Tue, 29 Mar 2016 08:59:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://thepalekids.files.wordpress.com/2015/02/octotooter-feb15.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/geo-dizek/ff3f4997-002d-4b13-82a2-eaea278f2180/index.html</link>
             <guid isPermaLink="false">ff3f4997-002d-4b13-82a2-eaea278f2180</guid>
             <pubDate>Tue, 29 Mar 2016 08:55:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testerooo - Sensorationally Sensitive</p>]]></description>
-            <link>https://thegrid.ai/geo-dizek/37be22f6-c85c-4292-ac87-ce4640211232/index.html</link>
-            <guid isPermaLink="false">37be22f6-c85c-4292-ac87-ce4640211232</guid>
-            <pubDate>Tue, 29 Mar 2016 08:37:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
