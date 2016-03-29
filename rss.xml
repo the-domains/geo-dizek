@@ -4,8 +4,15 @@
         <description><![CDATA[Geo Dizek]]></description>
         <link>https://thegrid.ai/geo-dizek/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 09:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 09:11:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/geo-dizek/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Geo Dizek is Rising Up.</p>]]></description>
+            <link>https://thegrid.ai/geo-dizek/d91b02ec-2580-41f6-863f-4ab6b7906b0a/index.html</link>
+            <guid isPermaLink="false">d91b02ec-2580-41f6-863f-4ab6b7906b0a</guid>
+            <pubDate>Tue, 29 Mar 2016 09:11:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0084bbce1b81e5442f0779c6d5a736375d615f21.jpg" /></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://thepalekids.files.wordpress.com/2015/02/fish-jan15.jpg?w=398&h=600">]]></description>
             <link>https://thegrid.ai/geo-dizek/bf7d54f8-6acc-4013-8447-88364ca8d1f8/index.html</link>
             <guid isPermaLink="false">bf7d54f8-6acc-4013-8447-88364ca8d1f8</guid>
-            <pubDate>Tue, 29 Mar 2016 09:00:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://thepalekids.files.wordpress.com/2015/02/masterblind-feb15.jpg">]]></description>
-            <link>https://thegrid.ai/geo-dizek/379bea14-cd8e-49ab-9763-950d6513373d/index.html</link>
-            <guid isPermaLink="false">379bea14-cd8e-49ab-9763-950d6513373d</guid>
             <pubDate>Tue, 29 Mar 2016 09:00:30 GMT</pubDate>
         </item>
     </channel>
